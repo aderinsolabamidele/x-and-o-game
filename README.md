@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and the great impacts it can make on the world
 - 🌱 I’m currently learning c# and c++ . And i major in python,html,css and java script
 - 💞️ I’m looking to collaborate on websites creation , app creation and other collaborations that are my strength moving forward
-- 📫 How to reach me : @aderinsolabamidele1@gmail.com , instagram: ad3rins0la 
+- 📫 How to reach me : @aderinsolabamidele1@gmail.com , instagram: @ad3rins0la 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
